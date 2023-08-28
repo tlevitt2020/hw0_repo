@@ -1,6 +1,5 @@
-# hello-world2
-second test
+# COP 4655
+Thomas Levitt
 
-**Yay another test**
+**Used for HW0**
 
-*Need to do it again*
